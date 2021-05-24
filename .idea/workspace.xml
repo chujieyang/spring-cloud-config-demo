@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a983e594-f44c-4f99-a10b-40c39bf42d80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sxwm8OAR4cx7S0ThQxIUrMlKJu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ConfigServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="configserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fulu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fulu.ConfigServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConfigServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a983e594-f44c-4f99-a10b-40c39bf42d80" name="Default Changelist" comment="" />
+      <created>1621827705005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621827705005</updated>
+      <workItem from="1621827708512" duration="6312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1131" height="194" key="GridCell.Tab.0.bottom" timestamp="1621838975760">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.0.bottom/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621838975760" />
+    <state width="1131" height="194" key="GridCell.Tab.0.center" timestamp="1621838975758">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.0.center/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621838975758" />
+    <state width="1131" height="194" key="GridCell.Tab.0.left" timestamp="1621838975757">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.0.left/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621838975757" />
+    <state width="1131" height="194" key="GridCell.Tab.0.right" timestamp="1621838975759">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.0.right/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621838975759" />
+    <state width="1131" height="194" key="GridCell.Tab.1.bottom" timestamp="1621838975765">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.1.bottom/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621838975765" />
+    <state width="1131" height="194" key="GridCell.Tab.1.center" timestamp="1621838975762">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.1.center/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621838975762" />
+    <state width="1131" height="194" key="GridCell.Tab.1.left" timestamp="1621838975762">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.1.left/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621838975762" />
+    <state width="1131" height="194" key="GridCell.Tab.1.right" timestamp="1621838975763">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.1.right/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621838975763" />
+    <state x="1681" y="183" key="Maven.ArtifactSearchDialog" timestamp="1621827761153">
+      <screen x="1280" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1681" y="183" key="Maven.ArtifactSearchDialog/0.25.1280.775/1280.25.1920.1055@1280.25.1920.1055" timestamp="1621827761153" />
+  </component>
+</project>
